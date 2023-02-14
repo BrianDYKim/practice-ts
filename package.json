@@ -1,0 +1,22 @@
+{
+  "name": "practice-ts",
+  "version": "1.0.0",
+  "description": "Repository for practicing TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianDYKim/practice-ts.git"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianDYKim/practice-ts/issues"
+  },
+  "homepage": "https://github.com/BrianDYKim/practice-ts#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
